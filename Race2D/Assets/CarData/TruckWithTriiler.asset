@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a817bf2fa1fce42a5b0880aa019f5031, type: 3}
+  m_Name: TruckWithTriiler
+  m_EditorClassIdentifier: 
+  _carPref: {fileID: 1427643518698906854, guid: 6ec96393263db4810b5cb4169b535b00, type: 3}
+  _carName: 
+  _description: 
+  _icon: {fileID: 0}
+  _goldCost: 0
+  _speed: 2000
+  _maxSpeed: 2000
+  _dumpingRatio: 0
+  _maxDumpingRatio: 0
+  _fuel: 12
+  _maxFuel: 12
+  _wheel: 80
+  _maxWheel: 100
+  _driveType: 2

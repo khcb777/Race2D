@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a817bf2fa1fce42a5b0880aa019f5031, type: 3}
+  m_Name: Taxi
+  m_EditorClassIdentifier: 
+  _carName: 
+  _description: 
+  _icon: {fileID: 0}
+  _goldCost: 0
+  _carPref: {fileID: 9156881871120579575, guid: 532b8fad562be472f990619b16915a5c, type: 3}
+  _speed: 2000
+  _maxSpeed: 3000
+  _dumpingRatio: 0
+  _maxDumpingRatio: 0
+  _fuel: 12
+  _maxFuel: 12
+  _wheel: 30
+  _maxWheel: 40
+  _driveType: 1

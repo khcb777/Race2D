@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a817bf2fa1fce42a5b0880aa019f5031, type: 3}
+  m_Name: TruckData
+  m_EditorClassIdentifier: 
+  _carName: "\u0413\u0440\u0443\u0437\u043E\u0432\u0438\u043A"
+  _description: 
+  _icon: {fileID: 0}
+  _goldCost: 0
+  _carPref: {fileID: 6523961003369804824, guid: 43627630f7c8049fba8727d26fdbf6cf, type: 3}
+  _speed: 1000
+  _maxSpeed: 2000
+  _dumpingRatio: 3
+  _maxDumpingRatio: 12
+  _fuel: 4
+  _maxFuel: 10
+  _wheel: 4
+  _maxWheel: 100
+  _driveType: 1
